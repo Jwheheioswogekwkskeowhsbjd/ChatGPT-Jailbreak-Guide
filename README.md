@@ -1,6 +1,6 @@
 # ChatGPT-Jailbreak-Guide
 A guide to a new method ChatGPT jailbreak video, including insights, discussions, and ethical considerations for AI enthusiasts.
-# 🚨 New ChatGPT Jailbreak! Must-Watch for AI Enthusiasts! 🚨
+# 🚨 New ChatGPT 4o and 4o-mini Jailbreak! Must-Watch for AI Enthusiasts! 🚨
 
 Just stumbled upon this gem of a video: [ChatGPT Jailbreak by Curious Minds] 
 (https://www.youtube.com/watch?v=ga6kXM4IxVs&ab_channel=CuriousMinds).
